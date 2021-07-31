@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+graalvm-first-project-0.0.1-SNAPSHOT.build_artifacts.txt
+*.exe
